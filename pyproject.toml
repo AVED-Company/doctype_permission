@@ -4,7 +4,7 @@ authors = [
     { name = "Ecosoft", email = "kittiu@ecosoft.co.th"}
 ]
 description = "Allow easier setup of permission query"
-requires-python = ">=3.10"
+requires-python = ">=3.14"
 readme = "README.md"
 dynamic = ["version"]
 dependencies = [
